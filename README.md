@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinerLove
 - 👀 I’m interested in coding, and business analytical. I also love exercise, travel, listen music, watch movies...
-- 🌱 I’m currently learning Business analytical and information technology...
+- 🌱 I am planning to create my own AI trading plan, I believe one day I will be sucessfull
 
 
 
